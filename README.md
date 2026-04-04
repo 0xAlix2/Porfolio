@@ -10,6 +10,7 @@
 - Zenith: https://x.com/zenith256
 - Sherlock: https://x.com/sherlockdefi
 - BailSec: https://x.com/bailsecurity
+- BurraSec: https://x.com/burraSec
 - Custodia Security: https://x.com/CustodiaLab
 
 | Project              | Firm               | Date    | Category                        |
