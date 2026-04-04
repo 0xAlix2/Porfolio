@@ -1,21 +1,56 @@
-## 📜 Portfolio  
+# Public Portfolio
 
-**Web3 Security Researchers** — We come from 4 years of bug bounty experience working on major programs like Meta, GitHub, GitLab, and Deribit.  
-We also have a team member with 3+ years of software engineering experience, bringing strong backend and system architecture expertise to our audits.
-Since early 2024, We've focused on smart contract security — ranking Top 100 all-time on [Code4rena](https://code4rena.com/@0xAlix2) with 100+ high/medium findings, over 10 Top-10 finishes, and multiple wins across **Solidity**, **Cosmos SDK**, **Move** and **Rust**.  
+- Code4rena: https://code4rena.com/@0xAlix2
+- Sherlock: https://audits.sherlock.xyz/watson/0xAlix2, https://audits.sherlock.xyz/watson/0x69
+- Cantina: https://cantina.xyz/u/0xAlix2
 
-### 🔍 Experience Highlights  
-- **Smart Contract Audits**: Extensive experience across **Solidity**, **Cosmos SDK**, **Move** and **Rust** smart contracts.  
-- **Contest Success**: Ranked **Top 100 all-time** on [Code4rena](https://code4rena.com/@0xAlix2) with **100+ high/medium findings**, over **10 Top-10 finishes**, and multiple wins.  
-- **Private Audits**: Performed audits at [Custodia Security](https://custodiasecurity.xyz/) securing protocols with **millions in TVL**.  
-- **Audit Specialization**: Focused on identifying high-impact vulnerabilities in DeFi protocols, including:  
-  - Logic flaws in protocol mechanics  
-  - Privilege escalation risks  
-  - Complex economic attack vectors  
+# Private Engagements
 
-### 🛠️ Skills & Tools  
-- Languages: **Solidity**, **Rust**, **Go**, **JavaScript/TypeScript**, **Python** , **Move**
-- Frameworks: **Foundry**, **Hardhat**, **Anchor**, **Cosmos SDK**  
-- Methodologies: Manual review, invariant testing, fuzzing.
+- Pashov Audit Group: https://x.com/PashovAuditGrp
+- Zenith: https://x.com/zenith256
+- Sherlock: https://x.com/sherlockdefi
+- BailSec: https://x.com/bailsecurity
+- Custodia Security: https://x.com/CustodiaLab
 
-📎 **See more of our work**: [https://custodiasecurity.xyz/](https://custodiasecurity.xyz/)  
+| Project              | Firm               | Date    | Category                        |
+| -------------------- | ------------------ | ------- | ------------------------------- |
+| Polygun              | Pashov Audit Group | 2026-03 | Web 2                           |
+| Ion/Nucleus          | Pashov Audit Group | 2026-03 | Hyperliquid                     |
+| Orca Saffron         | Pashov Audit Group | 2026-03 | Solana, Fixed-Income Vault      |
+| Astra Nova           | Sherlock           | 2026-02 | Vesting                         |
+| Noya                 | Custodia Security  | 2026-02 | Vesting                         |
+| Pump.fun             | Pashov Audit Group | 2026-02 | Solana, Launchpad               |
+| Polygun              | Pashov Audit Group | 2026-02 | Web 2                           |
+| Ostium               | Pashov Audit Group | 2026-01 | Perpetuals                      |
+| Monarch              | Pashov Audit Group | 2026-01 | Hyperliquid                     |
+| LV Stablecoin        | Zenith             | 2025-12 | Stablecoin                      |
+| Sekai                | Custodia Security  | 2025-12 | Hyperliquid, Staking            |
+| DomFI                | Pashov Audit Group | 2025-12 | Perpetuals                      |
+| SpreadsFi            | Custodia Security  | 2025-11 | Staking, Voting                 |
+| Nucleus              | Pashov Audit Group | 2025-11 | Hyperliquid                     |
+| Pump.fun             | Pashov Audit Group | 2025-11 | Solana, Launchpad               |
+| PancakeSwap          | BurraSec           | 2025-11 | UMA's OO, LZ                    |
+| BOB                  | Pashov Audit Group | 2025-11 | LZ                              |
+| stHYPE               | Pashov Audit Group | 2025-11 | LST, Hyperliquid                |
+| Pump.fun             | Pashov Audit Group | 2025-11 | Solana, Launchpad               |
+| Enclave              | Pashov Audit Group | 2025-10 | Solana, Lending                 |
+| Pump.fun             | Pashov Audit Group | 2025-10 | Solana, Launchpad               |
+| Lumiterra            | Zenith             | 2025-10 | Uni V4 Hooks, Staking           |
+| Saffron Lido Vaults  | Pashov Audit Group | 2025-10 | LST,Fixed-Income Vault          |
+| Virtuals - AI Agents | Zenith             | 2025-10 | Launchpad                       |
+| Sekai                | Custodia Security  | 2025-09 | Hyperliquid, Staking            |
+| AlphaHype            | Pashov Audit Group | 2025-09 | Hyperliquid, Staking            |
+| LeverUp              | Zenith             | 2025-09 | Perpetuals                      |
+| Pump.fun             | Pashov Audit Group | 2025-09 | Solana, Launchpad               |
+| Thrust               | Pashov Audit Group | 2025-09 | Solana, Launchpad, Staking      |
+| Sting                | Custodia Security  | 2025-08 | Yield Optimization, Balancer V3 |
+| Sekai                | Custodia Security  | 2025-08 | Hyperliquid, Staking            |
+| RFY Vaults           | BailSec            | 2025-08 | Staking                         |
+| Starknet             | Pashov Audit Group | 2025-08 | Starknet, Staking               |
+| Nucleus              | Pashov Audit Group | 2025-07 | Hyperliquid                     |
+| Sonic Airdrop        | BailSec            | 2025-07 | Airdrop                         |
+| SIR                  | Custodia Security  | 2025-07 | Leveraged Trading               |
+| Hyperdrive           | BailSec            | 2025-07 | LST, HyperLiquid                |
+| Ouroboros            | Pashov Audit Group | 2025-06 | Uni V3 LP Staking               |
+| Bancor               | Pashov Audit Group | 2025-06 | DEX, Strategy Automation        |
+| Altitude             | Pashov Audit Group | 2025-06 | Hyperliquid, Uni V2, Uni V3     |
