@@ -15,6 +15,8 @@
 
 | Project              | Firm               | Date    | Category                        |
 | -------------------- | ------------------ | ------- | ------------------------------- |
+| MegPrime             | Pashov Audit Group | 2026-04 | Uni V3, Payment Routing         |
+| Spicenet             | Pashov Audit Group | 2026-04 | Sovereign Rollup, Bridge        |
 | Polygun              | Pashov Audit Group | 2026-03 | Web 2                           |
 | Ion/Nucleus          | Pashov Audit Group | 2026-03 | Hyperliquid                     |
 | Orca Saffron         | Pashov Audit Group | 2026-03 | Solana, Fixed-Income Vault      |
