@@ -15,6 +15,10 @@
 
 | Project              | Firm               | Date    | Category                        |
 | -------------------- | ------------------ | ------- | ------------------------------- |
+| Pumpcade             | Pashov Audit Group | 2026-06 | Solana, Prediction Markets      |
+| ListaDao             | BailSec            | 2026-05 | Staking                         |
+| Polymarket           | Pashov Audit Group | 2026-05 | Rust, Perpetuals                |
+| Omen.trade           | Sherlock           | 2026-04 | Web 2 Pentest                   |
 | MegPrime             | Pashov Audit Group | 2026-04 | Uni V3, Payment Routing         |
 | Spicenet             | Pashov Audit Group | 2026-04 | Sovereign Rollup, Bridge        |
 | Polygun              | Pashov Audit Group | 2026-03 | Web 2                           |
