@@ -16,7 +16,7 @@
 | Project              | Firm               | Date    | Category                        |
 | -------------------- | ------------------ | ------- | ------------------------------- |
 | 1inch                | BailSec            | 2026-07 | Web 2 Pentest                   |
-| Unflay               | Sherlock           | 2026-07 | Web 2 Pentest                   |
+| Unflat               | Sherlock           | 2026-07 | Web 2 Pentest                   |
 | Pumpcade             | Pashov Audit Group | 2026-06 | Solana, Prediction Markets      |
 | ListaDao             | BailSec            | 2026-05 | Staking                         |
 | Polymarket           | Pashov Audit Group | 2026-05 | Rust, Perpetuals                |
