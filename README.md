@@ -10,11 +10,13 @@
 - Zenith: https://x.com/zenith256
 - Sherlock: https://x.com/sherlockdefi
 - BailSec: https://x.com/bailsecurity
+- Adevar Labs: https://x.com/AdevarLabs
 - BurraSec: https://x.com/burraSec
 - Custodia Security: https://x.com/CustodiaLab
 
 | Project              | Firm               | Date    | Category                        |
 | -------------------- | ------------------ | ------- | ------------------------------- |
+| Brighter Money       | Adevar Labs        | 2026-07 | zkLighter, Vault, Staking       |
 | 1inch                | BailSec            | 2026-07 | Web 2 Pentest                   |
 | Unflat               | Sherlock           | 2026-07 | Web 2 Pentest                   |
 | Pumpcade             | Pashov Audit Group | 2026-06 | Solana, Prediction Markets      |
