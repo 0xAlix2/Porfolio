@@ -1,8 +1,11 @@
 # Public Portfolio
 
+**Contact:** [X](https://x.com/real_a_kalout) · [Telegram](https://t.me/akalout)
+
 - Code4rena: https://code4rena.com/@0xAlix2
 - Sherlock: https://audits.sherlock.xyz/watson/0xAlix2, https://audits.sherlock.xyz/watson/0x69
 - Cantina: https://cantina.xyz/u/0xAlix2
+- Previous Web2 Bug Bounty: [HackerOne](https://hackerone.com/js_noob?type=user)
 
 # Private Engagements
 
