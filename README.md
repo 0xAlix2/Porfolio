@@ -14,11 +14,18 @@
 - Sherlock: https://x.com/sherlockdefi
 - BailSec: https://x.com/bailsecurity
 - Adevar Labs: https://x.com/AdevarLabs
+- CD Security: https://x.com/CDSecurity
 - BurraSec: https://x.com/burraSec
+- Valkyri: https://x.com/ValkyriSecurity
 - Custodia Security: https://x.com/CustodiaLab
 
 | Project              | Firm               | Date    | Category                        |
 | -------------------- | ------------------ | ------- | ------------------------------- |
+| The House            | -                  | 2026-08 | Web 2 Pentest                   |
+| Aidea                | CD Security        | 2026-08 | Launchpad, Uni V2               |
+| DualGuard            | Valkyri            | 2026-08 | Web 2 Pentest                   |
+| Zephyr Bridge        | Sherlock           | 2026-08 | Web 2 Pentest                   |
+| Thrackle             | Zenith             | 2026-08 | Oracle                          |
 | Brighter Money       | Adevar Labs        | 2026-07 | zkLighter, Vault, Staking       |
 | 1inch                | BailSec            | 2026-07 | Web 2 Pentest                   |
 | Unflat               | Sherlock           | 2026-07 | Web 2 Pentest                   |
